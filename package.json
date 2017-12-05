@@ -1,0 +1,11 @@
+{
+  "name": "gatsby",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-cli": "^1.1.25",
+    "gatsby-plugin-typography": "^1.7.10",
+    "typography-theme-fairy-gates": "^0.15.11"
+  }
+}
