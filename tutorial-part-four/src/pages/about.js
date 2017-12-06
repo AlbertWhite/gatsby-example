@@ -11,7 +11,7 @@ export default ({ data }) => (
 )
 
 export const query = graphql`
-  query AboutQuery {
+  query aQuery {
     site {
       siteMetadata {
         title
